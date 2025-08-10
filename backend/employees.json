@@ -1,0 +1,132 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": ["Python", "React", "AWS"],
+      "experience_years": 5,
+      "projects": ["E-commerce Platform", "Healthcare Dashboard"],
+      "availability": "available"
+    },
+    {
+      "id": 2,
+      "name": "John Smith",
+      "skills": ["Java", "Docker", "Kubernetes"],
+      "experience_years": 4,
+      "projects": ["Inventory Management", "Banking App"],
+      "availability": "busy"
+    },
+    {
+      "id": 3,
+      "name": "Priya Sharma",
+      "skills": ["Data Science", "Machine Learning", "TensorFlow"],
+      "experience_years": 6,
+      "projects": ["Fraud Detection System", "Customer Segmentation Tool"],
+      "availability": "available"
+    },
+    {
+      "id": 4,
+      "name": "Michael Lee",
+      "skills": ["JavaScript", "Node.js", "MongoDB"],
+      "experience_years": 3,
+      "projects": ["Chat Application", "Food Delivery Platform"],
+      "availability": "available"
+    },
+    {
+      "id": 5,
+      "name": "Sara Williams",
+      "skills": ["UI/UX Design", "Figma", "Adobe XD"],
+      "experience_years": 7,
+      "projects": ["Travel Booking Website", "Fitness App UI"],
+      "availability": "busy"
+    },
+    {
+      "id": 6,
+      "name": "David Kim",
+      "skills": ["C#", ".NET", "Azure"],
+      "experience_years": 5,
+      "projects": ["HR Management System", "Payroll Automation"],
+      "availability": "available"
+    },
+    {
+      "id": 7,
+      "name": "Emily Davis",
+      "skills": ["Python", "Flask", "PostgreSQL"],
+      "experience_years": 2,
+      "projects": ["Blog CMS", "Online Learning Platform"],
+      "availability": "available"
+    },
+    {
+      "id": 8,
+      "name": "Amit Verma",
+      "skills": ["DevOps", "Jenkins", "Terraform"],
+      "experience_years": 6,
+      "projects": ["Cloud Infrastructure Setup", "CI/CD Pipeline"],
+      "availability": "busy"
+    },
+    {
+      "id": 9,
+      "name": "Laura Chen",
+      "skills": ["iOS Development", "Swift", "Xcode"],
+      "experience_years": 4,
+      "projects": ["Dating App", "Health Tracking App"],
+      "availability": "available"
+    },
+    {
+      "id": 10,
+      "name": "Robert Brown",
+      "skills": ["Android", "Kotlin", "Firebase"],
+      "experience_years": 5,
+      "projects": ["Ride Sharing App", "E-Wallet Application"],
+      "availability": "busy"
+    },
+    {
+      "id": 11,
+      "name": "Olivia Taylor",
+      "skills": ["Cybersecurity", "Penetration Testing", "Network Security"],
+      "experience_years": 8,
+      "projects": ["Security Audit System", "Threat Detection Platform"],
+      "availability": "available"
+    },
+    {
+      "id": 12,
+      "name": "Hassan Ali",
+      "skills": ["PHP", "Laravel", "MySQL"],
+      "experience_years": 3,
+      "projects": ["Job Portal", "Online Examination System"],
+      "availability": "available"
+    },
+    {
+      "id": 13,
+      "name": "Sophia Martinez",
+      "skills": ["Cloud Computing", "AWS Lambda", "Serverless Architecture"],
+      "experience_years": 6,
+      "projects": ["Event Ticketing System", "IoT Data Processing"],
+      "availability": "busy"
+    },
+    {
+      "id": 14,
+      "name": "Daniel Thompson",
+      "skills": ["Go", "Microservices", "gRPC"],
+      "experience_years": 4,
+      "projects": ["Real-time Analytics", "Gaming Backend"],
+      "availability": "available"
+    },
+    {
+      "id": 15,
+      "name": "Neha Gupta",
+      "skills": ["AI", "Natural Language Processing", "OpenAI API"],
+      "experience_years": 5,
+      "projects": ["Chatbot Development", "Sentiment Analysis Tool"],
+      "availability": "available"
+    },
+    {
+      "id": 16,
+      "name": "Rizz Gupta",
+      "skills": ["AI", "c++", "HTML", "OpenAI API"],
+      "experience_years": 5,
+      "projects": ["Chatbot Development", "Sentiment Analysis Tool"],
+      "availability": "available"
+    }
+  ]
+}
